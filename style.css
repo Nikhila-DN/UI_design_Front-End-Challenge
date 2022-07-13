@@ -34,9 +34,9 @@ padding-left: 30px;
 }
 
 i {
-        display: inline-block;
-       margin: 0.15em;
-        position: relative;
+       display: inline-block;
+      /* margin: 0.15em;*/
+       position: relative;
        
 
     }
@@ -68,7 +68,7 @@ padding-top: 10px;
 }
 
 img{
-	height: 150px;
+	height: 158px;
 	width: 125px;
 }
 
