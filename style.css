@@ -1,0 +1,97 @@
+
+#row3{
+	background-image: url(https://img.freepik.com/premium-photo/dark-tone-office-workplace-wooden-work-desk-with-laptop-documents-modern-interior-cozy-cabinet-comfortable-workspace-workplace-with-computer-home_44344-3180.jpg?w=2000);
+	color: white;
+	background-opacity:200 ;
+	height: 200px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.header{
+	height: 400px;
+	padding-bottom: 0px;
+	color: white;
+  background: url(https://img.freepik.com/premium-photo/dark-tone-office-workplace-wooden-work-desk-with-laptop-documents-modern-interior-cozy-cabinet-comfortable-workspace-workplace-with-computer-home_44344-3180.jpg?w=2000);
+  background-repeat: no-repeat;
+  background-size: auto;
+  
+}
+
+
+
+.r{
+padding-top: 30px;
+padding-bottom: 30px;
+padding-right: 30px;
+padding-left: 30px;
+}
+
+#sign{
+	width: 300px;
+	text-align: center;
+	font-size: 13px;
+}
+
+i {
+        display: inline-block;
+       margin: 0.15em;
+        position: relative;
+       
+
+    }
+    
+
+.row:nth-child(2){
+	background-color: #F1F4F3;
+}
+
+.row:nth-child(5){
+	background-color: #F1F4F3;
+}
+footer{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+	background-color: #F1F4F3;
+	font-size: 13px;
+}
+
+.r:nth-child(3){
+	background-image: linear-gradient(#F1F4F3,white);
+}
+.col-sm-4{
+display: flex;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+
+img{
+	height: 150px;
+	width: 125px;
+}
+
+dl{
+	border: white;
+	padding-bottom:15px;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 15px;
+	background-color: white;
+}
+dd{
+	text-align: left;
+}
+
+.icons{
+	border-radius: 40%;
+	height: 50px;
+	width: 50px;
+}
+
+span{
+   color: grey;
+}
+
+
